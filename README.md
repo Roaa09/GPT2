@@ -62,7 +62,7 @@ Place the file TinyStoriesV2-GPT4-train.txt in the appropriate path as reference
 ### 4.  Run the Notebook
 
 
-Open `GPT2.ipynb` using Jupyter Notebook or Google Colab and run all cells in order.
+Open `GPT2.ipynb` using Jupyter Notebook or Kaggle and run all cells in order.
 
 
 ---
