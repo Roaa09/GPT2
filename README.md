@@ -104,7 +104,7 @@ print(tokenizer.decode(output[0].tolist()))
 - **Model Size**: Modify d_model, num_layers, and num_heads
 - **Dataset**: Replace TinyStories with another dataset
 - **Settings**: Adjust epochs, batch size, or optimizer parameters
-
+- **Tokenizer**:You can use the trained tokenizer attached with code or train a new one
 ---
 
 ## Limitations
